@@ -15,5 +15,6 @@ To make it an xbox controller, I have used [Xbox 360 Controller Emulator](https:
 
 
 ## Credits
-  -[ESP32-BLE-GAMEPAD](https://github.com/lemmingDev/ESP32-BLE-Gamepad)
-  -[Xbox 360 Controller Emulator](https://www.x360ce.com/)
+  [ESP32-BLE-GAMEPAD](https://github.com/lemmingDev/ESP32-BLE-Gamepad) 
+  
+  [Xbox 360 Controller Emulator](https://www.x360ce.com/)
