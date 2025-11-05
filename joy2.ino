@@ -78,7 +78,7 @@ void loop() {
        // bleGamepad.setAxes(pot[3],pot[2],0,pot[1],pot[0],0,0,0);
        bleGamepad.setRightThumb(pot[3],pot[2]); 
        bleGamepad.setLeftThumb(pot[1],pot[0]);
-        // All axes, sliders, hats etc can also be set independently. See the IndividualAxes.ino example
+        // All axes, sliders, hats etc can also be set independently. 
         
 
           
@@ -88,3 +88,4 @@ void loop() {
 
     }
 }
+
